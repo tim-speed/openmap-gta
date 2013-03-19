@@ -1,6 +1,6 @@
-openmap-gta
-===========
+# OpenMaps &mdash; Grand Theft Auto
 
-Old styled GTA game using open map data
+
+An old style GTA game that uses OpenMaps data.
 
 WebGL demo: http://140.184.137.122:8081/indexGL.html
